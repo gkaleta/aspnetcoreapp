@@ -1,0 +1,6 @@
+/Users/gustav/Documents/Wasm/demo3/aspnetcoreapp/bin/Debug/net7.0/publish/appsettings.Development.json
+/Users/gustav/Documents/Wasm/demo3/aspnetcoreapp/bin/Debug/net7.0/publish/appsettings.json
+/Users/gustav/Documents/Wasm/demo3/aspnetcoreapp/bin/Debug/net7.0/publish/aspnetcoreapp.dll
+/Users/gustav/Documents/Wasm/demo3/aspnetcoreapp/bin/Debug/net7.0/publish/aspnetcoreapp.deps.json
+/Users/gustav/Documents/Wasm/demo3/aspnetcoreapp/bin/Debug/net7.0/publish/aspnetcoreapp.pdb
+/Users/gustav/Documents/Wasm/demo3/aspnetcoreapp/bin/Debug/net7.0/publish/Newtonsoft.Json.dll
